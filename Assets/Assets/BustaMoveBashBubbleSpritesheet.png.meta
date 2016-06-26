@@ -1,0 +1,6697 @@
+fileFormatVersion: 2
+guid: f55e608540ceb4a75a1568def26ef2d6
+timeCreated: 1452575315
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BustaMoveBashBubbleSpritesheet_0
+    21300002: BustaMoveBashBubbleSpritesheet_1
+    21300004: BustaMoveBashBubbleSpritesheet_2
+    21300006: BustaMoveBashBubbleSpritesheet_3
+    21300008: BustaMoveBashBubbleSpritesheet_4
+    21300010: BustaMoveBashBubbleSpritesheet_5
+    21300012: BustaMoveBashBubbleSpritesheet_6
+    21300014: BustaMoveBashBubbleSpritesheet_7
+    21300016: BustaMoveBashBubbleSpritesheet_8
+    21300018: BustaMoveBashBubbleSpritesheet_9
+    21300020: BustaMoveBashBubbleSpritesheet_10
+    21300022: BustaMoveBashBubbleSpritesheet_11
+    21300024: BustaMoveBashBubbleSpritesheet_12
+    21300026: BustaMoveBashBubbleSpritesheet_13
+    21300028: BustaMoveBashBubbleSpritesheet_14
+    21300030: BustaMoveBashBubbleSpritesheet_15
+    21300032: BustaMoveBashBubbleSpritesheet_16
+    21300034: BustaMoveBashBubbleSpritesheet_17
+    21300036: BustaMoveBashBubbleSpritesheet_18
+    21300038: BustaMoveBashBubbleSpritesheet_19
+    21300040: BustaMoveBashBubbleSpritesheet_20
+    21300042: BustaMoveBashBubbleSpritesheet_21
+    21300044: BustaMoveBashBubbleSpritesheet_22
+    21300046: BustaMoveBashBubbleSpritesheet_23
+    21300048: BustaMoveBashBubbleSpritesheet_24
+    21300050: BustaMoveBashBubbleSpritesheet_25
+    21300052: BustaMoveBashBubbleSpritesheet_26
+    21300054: BustaMoveBashBubbleSpritesheet_27
+    21300056: BustaMoveBashBubbleSpritesheet_28
+    21300058: BustaMoveBashBubbleSpritesheet_29
+    21300060: BustaMoveBashBubbleSpritesheet_30
+    21300062: BustaMoveBashBubbleSpritesheet_31
+    21300064: BustaMoveBashBubbleSpritesheet_32
+    21300066: BustaMoveBashBubbleSpritesheet_33
+    21300068: BustaMoveBashBubbleSpritesheet_34
+    21300070: BustaMoveBashBubbleSpritesheet_35
+    21300072: BustaMoveBashBubbleSpritesheet_36
+    21300074: BustaMoveBashBubbleSpritesheet_37
+    21300076: BustaMoveBashBubbleSpritesheet_38
+    21300078: BustaMoveBashBubbleSpritesheet_39
+    21300080: BustaMoveBashBubbleSpritesheet_40
+    21300082: BustaMoveBashBubbleSpritesheet_41
+    21300084: BustaMoveBashBubbleSpritesheet_42
+    21300086: BustaMoveBashBubbleSpritesheet_43
+    21300088: BustaMoveBashBubbleSpritesheet_44
+    21300090: BustaMoveBashBubbleSpritesheet_45
+    21300092: BustaMoveBashBubbleSpritesheet_46
+    21300094: BustaMoveBashBubbleSpritesheet_47
+    21300096: BustaMoveBashBubbleSpritesheet_48
+    21300098: BustaMoveBashBubbleSpritesheet_49
+    21300100: BustaMoveBashBubbleSpritesheet_50
+    21300102: BustaMoveBashBubbleSpritesheet_51
+    21300104: BustaMoveBashBubbleSpritesheet_52
+    21300106: BustaMoveBashBubbleSpritesheet_53
+    21300108: BustaMoveBashBubbleSpritesheet_54
+    21300110: BustaMoveBashBubbleSpritesheet_55
+    21300112: BustaMoveBashBubbleSpritesheet_56
+    21300114: BustaMoveBashBubbleSpritesheet_57
+    21300116: BustaMoveBashBubbleSpritesheet_58
+    21300118: BustaMoveBashBubbleSpritesheet_59
+    21300120: BustaMoveBashBubbleSpritesheet_60
+    21300122: BustaMoveBashBubbleSpritesheet_61
+    21300124: BustaMoveBashBubbleSpritesheet_62
+    21300126: BustaMoveBashBubbleSpritesheet_63
+    21300128: BustaMoveBashBubbleSpritesheet_64
+    21300130: BustaMoveBashBubbleSpritesheet_65
+    21300132: BustaMoveBashBubbleSpritesheet_66
+    21300134: BustaMoveBashBubbleSpritesheet_67
+    21300136: BustaMoveBashBubbleSpritesheet_68
+    21300138: BustaMoveBashBubbleSpritesheet_69
+    21300140: BustaMoveBashBubbleSpritesheet_70
+    21300142: BustaMoveBashBubbleSpritesheet_71
+    21300144: BustaMoveBashBubbleSpritesheet_72
+    21300146: BustaMoveBashBubbleSpritesheet_73
+    21300148: BustaMoveBashBubbleSpritesheet_74
+    21300150: BustaMoveBashBubbleSpritesheet_75
+    21300152: BustaMoveBashBubbleSpritesheet_76
+    21300154: BustaMoveBashBubbleSpritesheet_77
+    21300156: BustaMoveBashBubbleSpritesheet_78
+    21300158: BustaMoveBashBubbleSpritesheet_79
+    21300160: BustaMoveBashBubbleSpritesheet_80
+    21300162: BustaMoveBashBubbleSpritesheet_81
+    21300164: BustaMoveBashBubbleSpritesheet_82
+    21300166: BustaMoveBashBubbleSpritesheet_83
+    21300168: BustaMoveBashBubbleSpritesheet_84
+    21300170: BustaMoveBashBubbleSpritesheet_85
+    21300172: BustaMoveBashBubbleSpritesheet_86
+    21300174: BustaMoveBashBubbleSpritesheet_87
+    21300176: BustaMoveBashBubbleSpritesheet_88
+    21300178: BustaMoveBashBubbleSpritesheet_89
+    21300180: BustaMoveBashBubbleSpritesheet_90
+    21300182: BustaMoveBashBubbleSpritesheet_91
+    21300184: BustaMoveBashBubbleSpritesheet_92
+    21300186: BustaMoveBashBubbleSpritesheet_93
+    21300188: BustaMoveBashBubbleSpritesheet_94
+    21300190: BustaMoveBashBubbleSpritesheet_95
+    21300192: BustaMoveBashBubbleSpritesheet_96
+    21300194: BustaMoveBashBubbleSpritesheet_97
+    21300196: BustaMoveBashBubbleSpritesheet_98
+    21300198: BustaMoveBashBubbleSpritesheet_99
+    21300200: BustaMoveBashBubbleSpritesheet_100
+    21300202: BustaMoveBashBubbleSpritesheet_101
+    21300204: BustaMoveBashBubbleSpritesheet_102
+    21300206: BustaMoveBashBubbleSpritesheet_103
+    21300208: BustaMoveBashBubbleSpritesheet_104
+    21300210: BustaMoveBashBubbleSpritesheet_105
+    21300212: BustaMoveBashBubbleSpritesheet_106
+    21300214: BustaMoveBashBubbleSpritesheet_107
+    21300216: BustaMoveBashBubbleSpritesheet_108
+    21300218: BustaMoveBashBubbleSpritesheet_109
+    21300220: BustaMoveBashBubbleSpritesheet_110
+    21300222: BustaMoveBashBubbleSpritesheet_111
+    21300224: BustaMoveBashBubbleSpritesheet_112
+    21300226: BustaMoveBashBubbleSpritesheet_113
+    21300228: BustaMoveBashBubbleSpritesheet_114
+    21300230: BustaMoveBashBubbleSpritesheet_115
+    21300232: BustaMoveBashBubbleSpritesheet_116
+    21300234: BustaMoveBashBubbleSpritesheet_117
+    21300236: BustaMoveBashBubbleSpritesheet_118
+    21300238: BustaMoveBashBubbleSpritesheet_119
+    21300240: BustaMoveBashBubbleSpritesheet_120
+    21300242: BustaMoveBashBubbleSpritesheet_121
+    21300244: BustaMoveBashBubbleSpritesheet_122
+    21300246: BustaMoveBashBubbleSpritesheet_123
+    21300248: BustaMoveBashBubbleSpritesheet_124
+    21300250: BustaMoveBashBubbleSpritesheet_125
+    21300252: BustaMoveBashBubbleSpritesheet_126
+    21300254: BustaMoveBashBubbleSpritesheet_127
+    21300256: BustaMoveBashBubbleSpritesheet_128
+    21300258: BustaMoveBashBubbleSpritesheet_129
+    21300260: BustaMoveBashBubbleSpritesheet_130
+    21300262: BustaMoveBashBubbleSpritesheet_131
+    21300264: BustaMoveBashBubbleSpritesheet_132
+    21300266: BustaMoveBashBubbleSpritesheet_133
+    21300268: BustaMoveBashBubbleSpritesheet_134
+    21300270: BustaMoveBashBubbleSpritesheet_135
+    21300272: BustaMoveBashBubbleSpritesheet_136
+    21300274: BustaMoveBashBubbleSpritesheet_137
+    21300276: BustaMoveBashBubbleSpritesheet_138
+    21300278: BustaMoveBashBubbleSpritesheet_139
+    21300280: BustaMoveBashBubbleSpritesheet_140
+    21300282: BustaMoveBashBubbleSpritesheet_141
+    21300284: BustaMoveBashBubbleSpritesheet_142
+    21300286: BustaMoveBashBubbleSpritesheet_143
+    21300288: BustaMoveBashBubbleSpritesheet_144
+    21300290: BustaMoveBashBubbleSpritesheet_145
+    21300292: BustaMoveBashBubbleSpritesheet_146
+    21300294: BustaMoveBashBubbleSpritesheet_147
+    21300296: BustaMoveBashBubbleSpritesheet_148
+    21300298: BustaMoveBashBubbleSpritesheet_149
+    21300300: BustaMoveBashBubbleSpritesheet_150
+    21300302: BustaMoveBashBubbleSpritesheet_151
+    21300304: BustaMoveBashBubbleSpritesheet_152
+    21300306: BustaMoveBashBubbleSpritesheet_153
+    21300308: BustaMoveBashBubbleSpritesheet_154
+    21300310: BustaMoveBashBubbleSpritesheet_155
+    21300312: BustaMoveBashBubbleSpritesheet_156
+    21300314: BustaMoveBashBubbleSpritesheet_157
+    21300316: BustaMoveBashBubbleSpritesheet_158
+    21300318: BustaMoveBashBubbleSpritesheet_159
+    21300320: BustaMoveBashBubbleSpritesheet_160
+    21300322: BustaMoveBashBubbleSpritesheet_161
+    21300324: BustaMoveBashBubbleSpritesheet_162
+    21300326: BustaMoveBashBubbleSpritesheet_163
+    21300328: BustaMoveBashBubbleSpritesheet_164
+    21300330: BustaMoveBashBubbleSpritesheet_165
+    21300332: BustaMoveBashBubbleSpritesheet_166
+    21300334: BustaMoveBashBubbleSpritesheet_167
+    21300336: BustaMoveBashBubbleSpritesheet_168
+    21300338: BustaMoveBashBubbleSpritesheet_169
+    21300340: BustaMoveBashBubbleSpritesheet_170
+    21300342: BustaMoveBashBubbleSpritesheet_171
+    21300344: BustaMoveBashBubbleSpritesheet_172
+    21300346: BustaMoveBashBubbleSpritesheet_173
+    21300348: BustaMoveBashBubbleSpritesheet_174
+    21300350: BustaMoveBashBubbleSpritesheet_175
+    21300352: BustaMoveBashBubbleSpritesheet_176
+    21300354: BustaMoveBashBubbleSpritesheet_177
+    21300356: BustaMoveBashBubbleSpritesheet_178
+    21300358: BustaMoveBashBubbleSpritesheet_179
+    21300360: BustaMoveBashBubbleSpritesheet_180
+    21300362: BustaMoveBashBubbleSpritesheet_181
+    21300364: BustaMoveBashBubbleSpritesheet_182
+    21300366: BustaMoveBashBubbleSpritesheet_183
+    21300368: BustaMoveBashBubbleSpritesheet_184
+    21300370: BustaMoveBashBubbleSpritesheet_185
+    21300372: BustaMoveBashBubbleSpritesheet_186
+    21300374: BustaMoveBashBubbleSpritesheet_187
+    21300376: BustaMoveBashBubbleSpritesheet_188
+    21300378: BustaMoveBashBubbleSpritesheet_189
+    21300380: BustaMoveBashBubbleSpritesheet_190
+    21300382: BustaMoveBashBubbleSpritesheet_191
+    21300384: BustaMoveBashBubbleSpritesheet_192
+    21300386: BustaMoveBashBubbleSpritesheet_193
+    21300388: BustaMoveBashBubbleSpritesheet_194
+    21300390: BustaMoveBashBubbleSpritesheet_195
+    21300392: BustaMoveBashBubbleSpritesheet_196
+    21300394: BustaMoveBashBubbleSpritesheet_197
+    21300396: BustaMoveBashBubbleSpritesheet_198
+    21300398: BustaMoveBashBubbleSpritesheet_199
+    21300400: BustaMoveBashBubbleSpritesheet_200
+    21300402: BustaMoveBashBubbleSpritesheet_201
+    21300404: BustaMoveBashBubbleSpritesheet_202
+    21300406: BustaMoveBashBubbleSpritesheet_203
+    21300408: BustaMoveBashBubbleSpritesheet_204
+    21300410: BustaMoveBashBubbleSpritesheet_205
+    21300412: BustaMoveBashBubbleSpritesheet_206
+    21300414: BustaMoveBashBubbleSpritesheet_207
+    21300416: BustaMoveBashBubbleSpritesheet_208
+    21300418: BustaMoveBashBubbleSpritesheet_209
+    21300420: BustaMoveBashBubbleSpritesheet_210
+    21300422: BustaMoveBashBubbleSpritesheet_211
+    21300424: BustaMoveBashBubbleSpritesheet_212
+    21300426: BustaMoveBashBubbleSpritesheet_213
+    21300428: BustaMoveBashBubbleSpritesheet_214
+    21300430: BustaMoveBashBubbleSpritesheet_215
+    21300432: BustaMoveBashBubbleSpritesheet_216
+    21300434: BustaMoveBashBubbleSpritesheet_217
+    21300436: BustaMoveBashBubbleSpritesheet_218
+    21300438: BustaMoveBashBubbleSpritesheet_219
+    21300440: BustaMoveBashBubbleSpritesheet_220
+    21300442: BustaMoveBashBubbleSpritesheet_221
+    21300444: BustaMoveBashBubbleSpritesheet_222
+    21300446: BustaMoveBashBubbleSpritesheet_223
+    21300448: BustaMoveBashBubbleSpritesheet_224
+    21300450: BustaMoveBashBubbleSpritesheet_225
+    21300452: BustaMoveBashBubbleSpritesheet_226
+    21300454: BustaMoveBashBubbleSpritesheet_227
+    21300456: BustaMoveBashBubbleSpritesheet_228
+    21300458: BustaMoveBashBubbleSpritesheet_229
+    21300460: BustaMoveBashBubbleSpritesheet_230
+    21300462: BustaMoveBashBubbleSpritesheet_231
+    21300464: BustaMoveBashBubbleSpritesheet_232
+    21300466: BustaMoveBashBubbleSpritesheet_233
+    21300468: BustaMoveBashBubbleSpritesheet_234
+    21300470: BustaMoveBashBubbleSpritesheet_235
+    21300472: BustaMoveBashBubbleSpritesheet_236
+    21300474: BustaMoveBashBubbleSpritesheet_237
+    21300476: BustaMoveBashBubbleSpritesheet_238
+    21300478: BustaMoveBashBubbleSpritesheet_239
+    21300480: BustaMoveBashBubbleSpritesheet_240
+    21300482: BustaMoveBashBubbleSpritesheet_241
+    21300484: BustaMoveBashBubbleSpritesheet_242
+    21300486: BustaMoveBashBubbleSpritesheet_243
+    21300488: BustaMoveBashBubbleSpritesheet_244
+    21300490: BustaMoveBashBubbleSpritesheet_245
+    21300492: BustaMoveBashBubbleSpritesheet_246
+    21300494: BustaMoveBashBubbleSpritesheet_247
+    21300496: BustaMoveBashBubbleSpritesheet_248
+    21300498: BustaMoveBashBubbleSpritesheet_249
+    21300500: BustaMoveBashBubbleSpritesheet_250
+    21300502: BustaMoveBashBubbleSpritesheet_251
+    21300504: BustaMoveBashBubbleSpritesheet_252
+    21300506: BustaMoveBashBubbleSpritesheet_253
+    21300508: BustaMoveBashBubbleSpritesheet_254
+    21300510: BustaMoveBashBubbleSpritesheet_255
+    21300512: BustaMoveBashBubbleSpritesheet_256
+    21300514: BustaMoveBashBubbleSpritesheet_257
+    21300516: BustaMoveBashBubbleSpritesheet_258
+    21300518: BustaMoveBashBubbleSpritesheet_259
+    21300520: BustaMoveBashBubbleSpritesheet_260
+    21300522: BustaMoveBashBubbleSpritesheet_261
+    21300524: BustaMoveBashBubbleSpritesheet_262
+    21300526: BustaMoveBashBubbleSpritesheet_263
+    21300528: BustaMoveBashBubbleSpritesheet_264
+    21300530: BustaMoveBashBubbleSpritesheet_265
+    21300532: BustaMoveBashBubbleSpritesheet_266
+    21300534: BustaMoveBashBubbleSpritesheet_267
+    21300536: BustaMoveBashBubbleSpritesheet_268
+    21300538: BustaMoveBashBubbleSpritesheet_269
+    21300540: BustaMoveBashBubbleSpritesheet_270
+    21300542: BustaMoveBashBubbleSpritesheet_271
+    21300544: BustaMoveBashBubbleSpritesheet_272
+    21300546: BustaMoveBashBubbleSpritesheet_273
+    21300548: BustaMoveBashBubbleSpritesheet_274
+    21300550: BustaMoveBashBubbleSpritesheet_275
+    21300552: BustaMoveBashBubbleSpritesheet_276
+    21300554: BustaMoveBashBubbleSpritesheet_277
+    21300556: BustaMoveBashBubbleSpritesheet_278
+    21300558: BustaMoveBashBubbleSpritesheet_279
+    21300560: BustaMoveBashBubbleSpritesheet_280
+    21300562: BustaMoveBashBubbleSpritesheet_281
+    21300564: BustaMoveBashBubbleSpritesheet_282
+    21300566: BustaMoveBashBubbleSpritesheet_283
+    21300568: BustaMoveBashBubbleSpritesheet_284
+    21300570: BustaMoveBashBubbleSpritesheet_285
+    21300572: BustaMoveBashBubbleSpritesheet_286
+    21300574: BustaMoveBashBubbleSpritesheet_287
+    21300576: BustaMoveBashBubbleSpritesheet_288
+    21300578: BustaMoveBashBubbleSpritesheet_289
+    21300580: BustaMoveBashBubbleSpritesheet_290
+    21300582: BustaMoveBashBubbleSpritesheet_291
+    21300584: BustaMoveBashBubbleSpritesheet_292
+    21300586: BustaMoveBashBubbleSpritesheet_293
+    21300588: BustaMoveBashBubbleSpritesheet_294
+    21300590: BustaMoveBashBubbleSpritesheet_295
+    21300592: BustaMoveBashBubbleSpritesheet_296
+    21300594: BustaMoveBashBubbleSpritesheet_297
+    21300596: BustaMoveBashBubbleSpritesheet_298
+    21300598: BustaMoveBashBubbleSpritesheet_299
+    21300600: BustaMoveBashBubbleSpritesheet_300
+    21300602: BustaMoveBashBubbleSpritesheet_301
+    21300604: BustaMoveBashBubbleSpritesheet_302
+    21300606: BustaMoveBashBubbleSpritesheet_303
+    21300608: BustaMoveBashBubbleSpritesheet_304
+    21300610: BustaMoveBashBubbleSpritesheet_305
+    21300612: BustaMoveBashBubbleSpritesheet_306
+    21300614: BustaMoveBashBubbleSpritesheet_307
+    21300616: BustaMoveBashBubbleSpritesheet_308
+    21300618: BustaMoveBashBubbleSpritesheet_309
+    21300620: BustaMoveBashBubbleSpritesheet_310
+    21300622: BustaMoveBashBubbleSpritesheet_311
+    21300624: BustaMoveBashBubbleSpritesheet_312
+    21300626: BustaMoveBashBubbleSpritesheet_313
+    21300628: BustaMoveBashBubbleSpritesheet_314
+    21300630: BustaMoveBashBubbleSpritesheet_315
+    21300632: BustaMoveBashBubbleSpritesheet_316
+    21300634: BustaMoveBashBubbleSpritesheet_317
+    21300636: BustaMoveBashBubbleSpritesheet_318
+    21300638: BustaMoveBashBubbleSpritesheet_319
+    21300640: BustaMoveBashBubbleSpritesheet_320
+    21300642: BustaMoveBashBubbleSpritesheet_321
+    21300644: BustaMoveBashBubbleSpritesheet_322
+    21300646: BustaMoveBashBubbleSpritesheet_323
+    21300648: BustaMoveBashBubbleSpritesheet_324
+    21300650: BustaMoveBashBubbleSpritesheet_325
+    21300652: BustaMoveBashBubbleSpritesheet_326
+    21300654: BustaMoveBashBubbleSpritesheet_327
+    21300656: BustaMoveBashBubbleSpritesheet_328
+    21300658: BustaMoveBashBubbleSpritesheet_329
+    21300660: BustaMoveBashBubbleSpritesheet_330
+    21300662: BustaMoveBashBubbleSpritesheet_331
+    21300664: BustaMoveBashBubbleSpritesheet_332
+    21300666: BustaMoveBashBubbleSpritesheet_333
+    21300668: BustaMoveBashBubbleSpritesheet_334
+    21300670: BustaMoveBashBubbleSpritesheet_335
+    21300672: BustaMoveBashBubbleSpritesheet_336
+    21300674: BustaMoveBashBubbleSpritesheet_337
+    21300676: BustaMoveBashBubbleSpritesheet_338
+    21300678: BustaMoveBashBubbleSpritesheet_339
+    21300680: BustaMoveBashBubbleSpritesheet_340
+    21300682: BustaMoveBashBubbleSpritesheet_341
+    21300684: BustaMoveBashBubbleSpritesheet_342
+    21300686: BustaMoveBashBubbleSpritesheet_343
+    21300688: BustaMoveBashBubbleSpritesheet_344
+    21300690: BustaMoveBashBubbleSpritesheet_345
+    21300692: BustaMoveBashBubbleSpritesheet_346
+    21300694: BustaMoveBashBubbleSpritesheet_347
+    21300696: BustaMoveBashBubbleSpritesheet_348
+    21300698: BustaMoveBashBubbleSpritesheet_349
+    21300700: BustaMoveBashBubbleSpritesheet_350
+    21300702: BustaMoveBashBubbleSpritesheet_351
+    21300704: BustaMoveBashBubbleSpritesheet_352
+    21300706: BustaMoveBashBubbleSpritesheet_353
+    21300708: BustaMoveBashBubbleSpritesheet_354
+    21300710: BustaMoveBashBubbleSpritesheet_355
+    21300712: BustaMoveBashBubbleSpritesheet_356
+    21300714: BustaMoveBashBubbleSpritesheet_357
+    21300716: BustaMoveBashBubbleSpritesheet_358
+    21300718: BustaMoveBashBubbleSpritesheet_359
+    21300720: BustaMoveBashBubbleSpritesheet_360
+    21300722: BustaMoveBashBubbleSpritesheet_361
+    21300724: BustaMoveBashBubbleSpritesheet_362
+    21300726: BustaMoveBashBubbleSpritesheet_363
+    21300728: BustaMoveBashBubbleSpritesheet_364
+    21300730: BustaMoveBashBubbleSpritesheet_365
+    21300732: BustaMoveBashBubbleSpritesheet_366
+    21300734: BustaMoveBashBubbleSpritesheet_367
+    21300736: BustaMoveBashBubbleSpritesheet_368
+    21300738: BustaMoveBashBubbleSpritesheet_369
+    21300740: BustaMoveBashBubbleSpritesheet_370
+    21300742: BustaMoveBashBubbleSpritesheet_371
+    21300744: BustaMoveBashBubbleSpritesheet_372
+    21300746: BustaMoveBashBubbleSpritesheet_373
+    21300748: BustaMoveBashBubbleSpritesheet_374
+    21300750: BustaMoveBashBubbleSpritesheet_375
+    21300752: BustaMoveBashBubbleSpritesheet_376
+    21300754: BustaMoveBashBubbleSpritesheet_377
+    21300756: BustaMoveBashBubbleSpritesheet_378
+    21300758: BustaMoveBashBubbleSpritesheet_379
+    21300760: BustaMoveBashBubbleSpritesheet_380
+    21300762: BustaMoveBashBubbleSpritesheet_381
+    21300764: BustaMoveBashBubbleSpritesheet_382
+    21300766: BustaMoveBashBubbleSpritesheet_383
+    21300768: BustaMoveBashBubbleSpritesheet_384
+    21300770: BustaMoveBashBubbleSpritesheet_385
+    21300772: BustaMoveBashBubbleSpritesheet_386
+    21300774: BustaMoveBashBubbleSpritesheet_387
+    21300776: BustaMoveBashBubbleSpritesheet_388
+    21300778: BustaMoveBashBubbleSpritesheet_389
+    21300780: BustaMoveBashBubbleSpritesheet_390
+    21300782: BustaMoveBashBubbleSpritesheet_391
+    21300784: BustaMoveBashBubbleSpritesheet_392
+    21300786: BustaMoveBashBubbleSpritesheet_393
+    21300788: BustaMoveBashBubbleSpritesheet_394
+    21300790: BustaMoveBashBubbleSpritesheet_395
+    21300792: BustaMoveBashBubbleSpritesheet_396
+    21300794: BustaMoveBashBubbleSpritesheet_397
+    21300796: BustaMoveBashBubbleSpritesheet_398
+    21300798: BustaMoveBashBubbleSpritesheet_399
+    21300800: BustaMoveBashBubbleSpritesheet_400
+    21300802: BustaMoveBashBubbleSpritesheet_401
+    21300804: BustaMoveBashBubbleSpritesheet_402
+    21300806: BustaMoveBashBubbleSpritesheet_403
+    21300808: BustaMoveBashBubbleSpritesheet_404
+    21300810: BustaMoveBashBubbleSpritesheet_405
+    21300812: BustaMoveBashBubbleSpritesheet_406
+    21300814: BustaMoveBashBubbleSpritesheet_407
+    21300816: BustaMoveBashBubbleSpritesheet_408
+    21300818: BustaMoveBashBubbleSpritesheet_409
+    21300820: BustaMoveBashBubbleSpritesheet_410
+    21300822: BustaMoveBashBubbleSpritesheet_411
+    21300824: BustaMoveBashBubbleSpritesheet_412
+    21300826: BustaMoveBashBubbleSpritesheet_413
+    21300828: BustaMoveBashBubbleSpritesheet_414
+    21300830: BustaMoveBashBubbleSpritesheet_415
+    21300832: BustaMoveBashBubbleSpritesheet_416
+    21300834: BustaMoveBashBubbleSpritesheet_417
+    21300836: BustaMoveBashBubbleSpritesheet_418
+    21300838: BustaMoveBashBubbleSpritesheet_419
+    21300840: BustaMoveBashBubbleSpritesheet_420
+    21300842: BustaMoveBashBubbleSpritesheet_421
+    21300844: BustaMoveBashBubbleSpritesheet_422
+    21300846: BustaMoveBashBubbleSpritesheet_423
+    21300848: BustaMoveBashBubbleSpritesheet_424
+    21300850: BustaMoveBashBubbleSpritesheet_425
+    21300852: BustaMoveBashBubbleSpritesheet_426
+    21300854: BustaMoveBashBubbleSpritesheet_427
+    21300856: BustaMoveBashBubbleSpritesheet_428
+    21300858: BustaMoveBashBubbleSpritesheet_429
+    21300860: BustaMoveBashBubbleSpritesheet_430
+    21300862: BustaMoveBashBubbleSpritesheet_431
+    21300864: BustaMoveBashBubbleSpritesheet_432
+    21300866: BustaMoveBashBubbleSpritesheet_433
+    21300868: BustaMoveBashBubbleSpritesheet_434
+    21300870: BustaMoveBashBubbleSpritesheet_435
+    21300872: BustaMoveBashBubbleSpritesheet_436
+    21300874: BustaMoveBashBubbleSpritesheet_437
+    21300876: BustaMoveBashBubbleSpritesheet_438
+    21300878: BustaMoveBashBubbleSpritesheet_439
+    21300880: BustaMoveBashBubbleSpritesheet_440
+    21300882: BustaMoveBashBubbleSpritesheet_441
+    21300884: BustaMoveBashBubbleSpritesheet_442
+    21300886: BustaMoveBashBubbleSpritesheet_443
+    21300888: BustaMoveBashBubbleSpritesheet_444
+    21300890: BustaMoveBashBubbleSpritesheet_445
+    21300892: BustaMoveBashBubbleSpritesheet_446
+    21300894: BustaMoveBashBubbleSpritesheet_447
+    21300896: BustaMoveBashBubbleSpritesheet_448
+    21300898: BustaMoveBashBubbleSpritesheet_449
+    21300900: BustaMoveBashBubbleSpritesheet_450
+    21300902: BustaMoveBashBubbleSpritesheet_451
+    21300904: BustaMoveBashBubbleSpritesheet_452
+    21300906: BustaMoveBashBubbleSpritesheet_453
+    21300908: BustaMoveBashBubbleSpritesheet_454
+    21300910: BustaMoveBashBubbleSpritesheet_455
+    21300912: BustaMoveBashBubbleSpritesheet_456
+    21300914: BustaMoveBashBubbleSpritesheet_457
+    21300916: BustaMoveBashBubbleSpritesheet_458
+    21300918: BustaMoveBashBubbleSpritesheet_459
+    21300920: BustaMoveBashBubbleSpritesheet_460
+    21300922: BustaMoveBashBubbleSpritesheet_461
+    21300924: BustaMoveBashBubbleSpritesheet_462
+    21300926: BustaMoveBashBubbleSpritesheet_463
+    21300928: BustaMoveBashBubbleSpritesheet_464
+    21300930: BustaMoveBashBubbleSpritesheet_465
+    21300932: BustaMoveBashBubbleSpritesheet_466
+    21300934: BustaMoveBashBubbleSpritesheet_467
+    21300936: BustaMoveBashBubbleSpritesheet_468
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BustaMoveBashBubbleSpritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 966
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 966
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 966
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 966
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 966
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 966
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 966
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 966
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 966
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 966
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 966
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 966
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 966
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 966
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 966
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 966
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 966
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 949
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 938
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 24}
+        - {x: -24, y: 16}
+        - {x: -24, y: -15}
+        - {x: -18, y: -24}
+        - {x: 20, y: -24}
+        - {x: 24, y: -21}
+        - {x: 24, y: 18}
+        - {x: 22, y: 24}
+    - name: BustaMoveBashBubbleSpritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 934
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 28}
+        - {x: -28, y: 21}
+        - {x: -28, y: -22}
+        - {x: -21, y: -28}
+        - {x: 24, y: -28}
+        - {x: 28, y: -18}
+        - {x: 28, y: 23}
+        - {x: 21, y: 28}
+    - name: BustaMoveBashBubbleSpritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 933
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 29}
+        - {x: -28, y: 27}
+        - {x: -29, y: 26}
+        - {x: -29, y: -22}
+        - {x: -27, y: -29}
+        - {x: 26, y: -29}
+        - {x: 29, y: -21}
+        - {x: 29, y: 24}
+        - {x: 23, y: 29}
+    - name: BustaMoveBashBubbleSpritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 932
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 30}
+        - {x: -30, y: 19}
+        - {x: -30, y: -24}
+        - {x: -14, y: -30}
+        - {x: 19, y: -30}
+        - {x: 30, y: -20}
+        - {x: 30, y: 19}
+        - {x: 19, y: 30}
+    - name: BustaMoveBashBubbleSpritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 931
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 31}
+        - {x: -13, y: 31}
+        - {x: -20, y: 28}
+        - {x: -28, y: 20}
+        - {x: -31, y: 13}
+        - {x: -31, y: -13}
+        - {x: -28, y: -20}
+        - {x: -22, y: -31}
+        - {x: 18, y: -31}
+        - {x: 21, y: -29}
+        - {x: 31, y: -15}
+        - {x: 31, y: 19}
+    - name: BustaMoveBashBubbleSpritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 931
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 31}
+        - {x: -13, y: 31}
+        - {x: -20, y: 28}
+        - {x: -28, y: 20}
+        - {x: -31, y: 13}
+        - {x: -31, y: -13}
+        - {x: -28, y: -20}
+        - {x: -22, y: -31}
+        - {x: 18, y: -31}
+        - {x: 21, y: -29}
+        - {x: 31, y: -15}
+        - {x: 31, y: 19}
+    - name: BustaMoveBashBubbleSpritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 931
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 31}
+        - {x: -13, y: 31}
+        - {x: -20, y: 28}
+        - {x: -28, y: 20}
+        - {x: -31, y: 13}
+        - {x: -31, y: -13}
+        - {x: -28, y: -20}
+        - {x: -22, y: -31}
+        - {x: 18, y: -31}
+        - {x: 21, y: -29}
+        - {x: 31, y: -15}
+        - {x: 31, y: 19}
+    - name: BustaMoveBashBubbleSpritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 940
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 940
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 940
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 940
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 940
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 940
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 940
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 940
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 940
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 940
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 940
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 940
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 940
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 940
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 940
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 940
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 940
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 914
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 914
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 914
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 914
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 914
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 914
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 914
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 914
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 914
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 914
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 914
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 914
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 914
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 914
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 914
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 914
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 914
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 873
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 24}
+        - {x: -24, y: 16}
+        - {x: -24, y: -15}
+        - {x: -18, y: -24}
+        - {x: 20, y: -24}
+        - {x: 24, y: -21}
+        - {x: 24, y: 18}
+        - {x: 22, y: 24}
+    - name: BustaMoveBashBubbleSpritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 869
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 28}
+        - {x: -28, y: 21}
+        - {x: -28, y: -22}
+        - {x: -21, y: -28}
+        - {x: 24, y: -28}
+        - {x: 28, y: -18}
+        - {x: 28, y: 23}
+        - {x: 21, y: 28}
+    - name: BustaMoveBashBubbleSpritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 868
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 29}
+        - {x: -28, y: 27}
+        - {x: -29, y: 26}
+        - {x: -29, y: -22}
+        - {x: -27, y: -29}
+        - {x: 26, y: -29}
+        - {x: 29, y: -21}
+        - {x: 29, y: 24}
+        - {x: 23, y: 29}
+    - name: BustaMoveBashBubbleSpritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 867
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 30}
+        - {x: -30, y: 19}
+        - {x: -30, y: -24}
+        - {x: -14, y: -30}
+        - {x: 19, y: -30}
+        - {x: 30, y: -20}
+        - {x: 30, y: 19}
+        - {x: 19, y: 30}
+    - name: BustaMoveBashBubbleSpritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 866
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 31}
+        - {x: -13, y: 31}
+        - {x: -20, y: 28}
+        - {x: -28, y: 20}
+        - {x: -31, y: 13}
+        - {x: -31, y: -13}
+        - {x: -28, y: -20}
+        - {x: -22, y: -31}
+        - {x: 18, y: -31}
+        - {x: 21, y: -29}
+        - {x: 31, y: -15}
+        - {x: 31, y: 19}
+    - name: BustaMoveBashBubbleSpritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 866
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 31}
+        - {x: -13, y: 31}
+        - {x: -20, y: 28}
+        - {x: -28, y: 20}
+        - {x: -31, y: 13}
+        - {x: -31, y: -13}
+        - {x: -28, y: -20}
+        - {x: -22, y: -31}
+        - {x: 18, y: -31}
+        - {x: 21, y: -29}
+        - {x: 31, y: -15}
+        - {x: 31, y: 19}
+    - name: BustaMoveBashBubbleSpritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 866
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 31}
+        - {x: -13, y: 31}
+        - {x: -20, y: 28}
+        - {x: -28, y: 20}
+        - {x: -31, y: 13}
+        - {x: -31, y: -13}
+        - {x: -28, y: -20}
+        - {x: -22, y: -31}
+        - {x: 18, y: -31}
+        - {x: 21, y: -29}
+        - {x: 31, y: -15}
+        - {x: 31, y: 19}
+    - name: BustaMoveBashBubbleSpritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 888
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 888
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 888
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 888
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 888
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 888
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 888
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 888
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 888
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 888
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 888
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 888
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 888
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 888
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 888
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 888
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 888
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 884
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 862
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 862
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 862
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 862
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 862
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 862
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 862
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 862
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 862
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 862
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 862
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 862
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 862
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 862
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 862
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 862
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 862
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 801
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 31}
+        - {x: -13, y: 31}
+        - {x: -20, y: 28}
+        - {x: -28, y: 20}
+        - {x: -31, y: 13}
+        - {x: -31, y: -13}
+        - {x: -28, y: -20}
+        - {x: -22, y: -31}
+        - {x: 18, y: -31}
+        - {x: 21, y: -29}
+        - {x: 31, y: -15}
+        - {x: 31, y: 19}
+    - name: BustaMoveBashBubbleSpritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 801
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 31}
+        - {x: -13, y: 31}
+        - {x: -20, y: 28}
+        - {x: -28, y: 20}
+        - {x: -31, y: 13}
+        - {x: -31, y: -13}
+        - {x: -28, y: -20}
+        - {x: -22, y: -31}
+        - {x: 18, y: -31}
+        - {x: 21, y: -29}
+        - {x: 31, y: -15}
+        - {x: 31, y: 19}
+    - name: BustaMoveBashBubbleSpritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 801
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 31}
+        - {x: -13, y: 31}
+        - {x: -20, y: 28}
+        - {x: -28, y: 20}
+        - {x: -31, y: 13}
+        - {x: -31, y: -13}
+        - {x: -28, y: -20}
+        - {x: -22, y: -31}
+        - {x: 18, y: -31}
+        - {x: 21, y: -29}
+        - {x: 31, y: -15}
+        - {x: 31, y: 19}
+    - name: BustaMoveBashBubbleSpritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 836
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 836
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 836
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 836
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 836
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 836
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 836
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 836
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 836
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 836
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 836
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 836
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 836
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_117
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 836
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_118
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 836
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_119
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 836
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_120
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 836
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_121
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 819
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_122
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 808
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 24}
+        - {x: -24, y: 16}
+        - {x: -24, y: -15}
+        - {x: -18, y: -24}
+        - {x: 20, y: -24}
+        - {x: 24, y: -21}
+        - {x: 24, y: 18}
+        - {x: 22, y: 24}
+    - name: BustaMoveBashBubbleSpritesheet_123
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 804
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 28}
+        - {x: -28, y: 21}
+        - {x: -28, y: -22}
+        - {x: -21, y: -28}
+        - {x: 24, y: -28}
+        - {x: 28, y: -18}
+        - {x: 28, y: 23}
+        - {x: 21, y: 28}
+    - name: BustaMoveBashBubbleSpritesheet_124
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 803
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 29}
+        - {x: -28, y: 27}
+        - {x: -29, y: 26}
+        - {x: -29, y: -22}
+        - {x: -27, y: -29}
+        - {x: 26, y: -29}
+        - {x: 29, y: -21}
+        - {x: 29, y: 24}
+        - {x: 23, y: 29}
+    - name: BustaMoveBashBubbleSpritesheet_125
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 802
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 30}
+        - {x: -30, y: 19}
+        - {x: -30, y: -24}
+        - {x: -14, y: -30}
+        - {x: 19, y: -30}
+        - {x: 30, y: -20}
+        - {x: 30, y: 19}
+        - {x: 19, y: 30}
+    - name: BustaMoveBashBubbleSpritesheet_126
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 810
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_127
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 810
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_128
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 810
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_129
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 810
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_130
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 810
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_131
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 810
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_132
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 810
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_133
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 810
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_134
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 810
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_135
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 810
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_136
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 810
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_137
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 810
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_138
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 810
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_139
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 810
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_140
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 810
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_141
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 810
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_142
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 810
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_143
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 784
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_144
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 784
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_145
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 784
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_146
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 784
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_147
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 784
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_148
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 784
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_149
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 784
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_150
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 784
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_151
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 784
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_152
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 784
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_153
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 784
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_154
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 784
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_155
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 784
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_156
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 784
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_157
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 784
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_158
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 784
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_159
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 784
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_160
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 743
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 24}
+        - {x: -24, y: 16}
+        - {x: -24, y: -15}
+        - {x: -18, y: -24}
+        - {x: 20, y: -24}
+        - {x: 24, y: -21}
+        - {x: 24, y: 18}
+        - {x: 22, y: 24}
+    - name: BustaMoveBashBubbleSpritesheet_161
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 739
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 28}
+        - {x: -28, y: 21}
+        - {x: -28, y: -22}
+        - {x: -21, y: -28}
+        - {x: 24, y: -28}
+        - {x: 28, y: -18}
+        - {x: 28, y: 23}
+        - {x: 21, y: 28}
+    - name: BustaMoveBashBubbleSpritesheet_162
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 738
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 29}
+        - {x: -28, y: 27}
+        - {x: -29, y: 26}
+        - {x: -29, y: -22}
+        - {x: -27, y: -29}
+        - {x: 26, y: -29}
+        - {x: 29, y: -21}
+        - {x: 29, y: 24}
+        - {x: 23, y: 29}
+    - name: BustaMoveBashBubbleSpritesheet_163
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 737
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 30}
+        - {x: -30, y: 19}
+        - {x: -30, y: -24}
+        - {x: -14, y: -30}
+        - {x: 19, y: -30}
+        - {x: 30, y: -20}
+        - {x: 30, y: 19}
+        - {x: 19, y: 30}
+    - name: BustaMoveBashBubbleSpritesheet_164
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 736
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 31}
+        - {x: -13, y: 31}
+        - {x: -20, y: 28}
+        - {x: -28, y: 20}
+        - {x: -31, y: 13}
+        - {x: -31, y: -13}
+        - {x: -28, y: -20}
+        - {x: -22, y: -31}
+        - {x: 18, y: -31}
+        - {x: 21, y: -29}
+        - {x: 31, y: -15}
+        - {x: 31, y: 19}
+    - name: BustaMoveBashBubbleSpritesheet_165
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 736
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 31}
+        - {x: -13, y: 31}
+        - {x: -20, y: 28}
+        - {x: -28, y: 20}
+        - {x: -31, y: 13}
+        - {x: -31, y: -13}
+        - {x: -28, y: -20}
+        - {x: -22, y: -31}
+        - {x: 18, y: -31}
+        - {x: 21, y: -29}
+        - {x: 31, y: -15}
+        - {x: 31, y: 19}
+    - name: BustaMoveBashBubbleSpritesheet_166
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 736
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 31}
+        - {x: -13, y: 31}
+        - {x: -20, y: 28}
+        - {x: -28, y: 20}
+        - {x: -31, y: 13}
+        - {x: -31, y: -13}
+        - {x: -28, y: -20}
+        - {x: -22, y: -31}
+        - {x: 18, y: -31}
+        - {x: 21, y: -29}
+        - {x: 31, y: -15}
+        - {x: 31, y: 19}
+    - name: BustaMoveBashBubbleSpritesheet_167
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 758
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_168
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 758
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_169
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 758
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_170
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 758
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_171
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 758
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_172
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 758
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_173
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 758
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_174
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 758
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_175
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 740
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 21}
+        - {x: -23, y: 21}
+        - {x: -23, y: -21}
+        - {x: 23, y: -21}
+        - {x: 23, y: 1}
+        - {x: 21, y: 14}
+    - name: BustaMoveBashBubbleSpritesheet_176
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 740
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 21}
+        - {x: -19, y: 16}
+        - {x: -23, y: -1}
+        - {x: -23, y: -19}
+        - {x: -22, y: -21}
+        - {x: 23, y: -21}
+        - {x: 23, y: 17}
+        - {x: 13, y: 21}
+    - name: BustaMoveBashBubbleSpritesheet_177
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 740
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 21}
+        - {x: -18, y: 16}
+        - {x: -23, y: -4}
+        - {x: -23, y: -19}
+        - {x: -21, y: -21}
+        - {x: 23, y: -21}
+        - {x: 23, y: 17}
+        - {x: 13, y: 21}
+    - name: BustaMoveBashBubbleSpritesheet_178
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 740
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 21}
+        - {x: -19, y: 16}
+        - {x: -23, y: 6}
+        - {x: -23, y: -19}
+        - {x: -21, y: -21}
+        - {x: 22, y: -21}
+        - {x: 23, y: -20}
+        - {x: 23, y: 17}
+        - {x: 13, y: 21}
+    - name: BustaMoveBashBubbleSpritesheet_179
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 754
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_180
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 732
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_181
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 732
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_182
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 732
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_183
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 732
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_184
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 732
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_185
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 732
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_186
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 732
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_187
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 732
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_188
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 696
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 21}
+        - {x: -19, y: 16}
+        - {x: -23, y: -1}
+        - {x: -23, y: -17}
+        - {x: -20, y: -21}
+        - {x: 20, y: -21}
+        - {x: 23, y: -19}
+        - {x: 23, y: 17}
+        - {x: 13, y: 21}
+    - name: BustaMoveBashBubbleSpritesheet_189
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 696
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 21}
+        - {x: -18, y: 15}
+        - {x: -23, y: 5}
+        - {x: -23, y: -21}
+        - {x: 23, y: -21}
+        - {x: 23, y: 18}
+        - {x: 13, y: 21}
+    - name: BustaMoveBashBubbleSpritesheet_190
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 696
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 21}
+        - {x: -19, y: 16}
+        - {x: -23, y: 6}
+        - {x: -23, y: -21}
+        - {x: 22, y: -21}
+        - {x: 23, y: -20}
+        - {x: 23, y: 17}
+        - {x: 13, y: 21}
+    - name: BustaMoveBashBubbleSpritesheet_191
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 696
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21}
+        - {x: -23, y: 6}
+        - {x: -23, y: -17}
+        - {x: -18, y: -21}
+        - {x: 17, y: -21}
+        - {x: 23, y: -18}
+        - {x: 23, y: 18}
+        - {x: 16, y: 21}
+    - name: BustaMoveBashBubbleSpritesheet_192
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 671
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 31}
+        - {x: -13, y: 31}
+        - {x: -20, y: 28}
+        - {x: -28, y: 20}
+        - {x: -31, y: 13}
+        - {x: -31, y: -13}
+        - {x: -28, y: -20}
+        - {x: -22, y: -31}
+        - {x: 18, y: -31}
+        - {x: 21, y: -29}
+        - {x: 31, y: -15}
+        - {x: 31, y: 19}
+    - name: BustaMoveBashBubbleSpritesheet_193
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 671
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 31}
+        - {x: -13, y: 31}
+        - {x: -20, y: 28}
+        - {x: -28, y: 20}
+        - {x: -31, y: 13}
+        - {x: -31, y: -13}
+        - {x: -28, y: -20}
+        - {x: -22, y: -31}
+        - {x: 18, y: -31}
+        - {x: 21, y: -29}
+        - {x: 31, y: -15}
+        - {x: 31, y: 19}
+    - name: BustaMoveBashBubbleSpritesheet_194
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 671
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 31}
+        - {x: -13, y: 31}
+        - {x: -20, y: 28}
+        - {x: -28, y: 20}
+        - {x: -31, y: 13}
+        - {x: -31, y: -13}
+        - {x: -28, y: -20}
+        - {x: -22, y: -31}
+        - {x: 18, y: -31}
+        - {x: 21, y: -29}
+        - {x: 31, y: -15}
+        - {x: 31, y: 19}
+    - name: BustaMoveBashBubbleSpritesheet_195
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 706
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_196
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 706
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_197
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 706
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_198
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 706
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_199
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 706
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_200
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 706
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_201
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 706
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_202
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 706
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_203
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 689
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_204
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 678
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 24}
+        - {x: -24, y: 16}
+        - {x: -24, y: -15}
+        - {x: -18, y: -24}
+        - {x: 20, y: -24}
+        - {x: 24, y: -21}
+        - {x: 24, y: 18}
+        - {x: 22, y: 24}
+    - name: BustaMoveBashBubbleSpritesheet_205
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 674
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 28}
+        - {x: -28, y: 21}
+        - {x: -28, y: -22}
+        - {x: -21, y: -28}
+        - {x: 24, y: -28}
+        - {x: 28, y: -18}
+        - {x: 28, y: 23}
+        - {x: 21, y: 28}
+    - name: BustaMoveBashBubbleSpritesheet_206
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 673
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 29}
+        - {x: -28, y: 27}
+        - {x: -29, y: 26}
+        - {x: -29, y: -22}
+        - {x: -27, y: -29}
+        - {x: 26, y: -29}
+        - {x: 29, y: -21}
+        - {x: 29, y: 24}
+        - {x: 23, y: 29}
+    - name: BustaMoveBashBubbleSpritesheet_207
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 672
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 30}
+        - {x: -30, y: 19}
+        - {x: -30, y: -24}
+        - {x: -14, y: -30}
+        - {x: 19, y: -30}
+        - {x: 30, y: -20}
+        - {x: 30, y: 19}
+        - {x: 19, y: 30}
+    - name: BustaMoveBashBubbleSpritesheet_208
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 680
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_209
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 680
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_210
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 680
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_211
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 680
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_212
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 680
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_213
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 680
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_214
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 680
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_215
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 680
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_216
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 660
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_217
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 653
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_218
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 644
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_219
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 670
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_220
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 656
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_221
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 656
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_222
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 656
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_223
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 656
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_224
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 656
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_225
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 656
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_226
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 656
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_227
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 656
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_228
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 613
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 24}
+        - {x: -24, y: 16}
+        - {x: -24, y: -15}
+        - {x: -18, y: -24}
+        - {x: 20, y: -24}
+        - {x: 24, y: -21}
+        - {x: 24, y: 18}
+        - {x: 22, y: 24}
+    - name: BustaMoveBashBubbleSpritesheet_229
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 609
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 28}
+        - {x: -28, y: 21}
+        - {x: -28, y: -22}
+        - {x: -21, y: -28}
+        - {x: 24, y: -28}
+        - {x: 28, y: -18}
+        - {x: 28, y: 23}
+        - {x: 21, y: 28}
+    - name: BustaMoveBashBubbleSpritesheet_230
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 608
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 29}
+        - {x: -28, y: 27}
+        - {x: -29, y: 26}
+        - {x: -29, y: -22}
+        - {x: -27, y: -29}
+        - {x: 26, y: -29}
+        - {x: 29, y: -21}
+        - {x: 29, y: 24}
+        - {x: 23, y: 29}
+    - name: BustaMoveBashBubbleSpritesheet_231
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 607
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 30}
+        - {x: -30, y: 19}
+        - {x: -30, y: -24}
+        - {x: -14, y: -30}
+        - {x: 19, y: -30}
+        - {x: 30, y: -20}
+        - {x: 30, y: 19}
+        - {x: 19, y: 30}
+    - name: BustaMoveBashBubbleSpritesheet_232
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 606
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 31}
+        - {x: -13, y: 31}
+        - {x: -20, y: 28}
+        - {x: -28, y: 20}
+        - {x: -31, y: 13}
+        - {x: -31, y: -13}
+        - {x: -28, y: -20}
+        - {x: -22, y: -31}
+        - {x: 18, y: -31}
+        - {x: 21, y: -29}
+        - {x: 31, y: -15}
+        - {x: 31, y: 19}
+    - name: BustaMoveBashBubbleSpritesheet_233
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 606
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 31}
+        - {x: -13, y: 31}
+        - {x: -20, y: 28}
+        - {x: -28, y: 20}
+        - {x: -31, y: 13}
+        - {x: -31, y: -13}
+        - {x: -28, y: -20}
+        - {x: -22, y: -31}
+        - {x: 18, y: -31}
+        - {x: 21, y: -29}
+        - {x: 31, y: -15}
+        - {x: 31, y: 19}
+    - name: BustaMoveBashBubbleSpritesheet_234
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 606
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 31}
+        - {x: -13, y: 31}
+        - {x: -20, y: 28}
+        - {x: -28, y: 20}
+        - {x: -31, y: 13}
+        - {x: -31, y: -13}
+        - {x: -28, y: -20}
+        - {x: -22, y: -31}
+        - {x: 18, y: -31}
+        - {x: 21, y: -29}
+        - {x: 31, y: -15}
+        - {x: 31, y: 19}
+    - name: BustaMoveBashBubbleSpritesheet_235
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 629
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_236
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 627
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_237
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 625
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_238
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 624
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_239
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 623
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_240
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 623
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_241
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 614
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_242
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 614
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_243
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 614
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_244
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 614
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_245
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 614
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_246
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 614
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_247
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 614
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_248
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 614
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_249
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 624
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_250
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 591
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_251
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 602
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_252
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 590
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_253
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 588
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_254
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 588
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_255
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 588
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_256
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 588
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_257
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 588
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_258
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 588
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_259
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 588
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_260
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 588
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_261
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 541
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 31}
+        - {x: -13, y: 31}
+        - {x: -20, y: 28}
+        - {x: -28, y: 20}
+        - {x: -31, y: 13}
+        - {x: -31, y: -13}
+        - {x: -28, y: -20}
+        - {x: -22, y: -31}
+        - {x: 18, y: -31}
+        - {x: 21, y: -29}
+        - {x: 31, y: -15}
+        - {x: 31, y: 19}
+    - name: BustaMoveBashBubbleSpritesheet_262
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 541
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 31}
+        - {x: -13, y: 31}
+        - {x: -20, y: 28}
+        - {x: -28, y: 20}
+        - {x: -31, y: 13}
+        - {x: -31, y: -13}
+        - {x: -28, y: -20}
+        - {x: -22, y: -31}
+        - {x: 18, y: -31}
+        - {x: 21, y: -29}
+        - {x: 31, y: -15}
+        - {x: 31, y: 19}
+    - name: BustaMoveBashBubbleSpritesheet_263
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 541
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 31}
+        - {x: -13, y: 31}
+        - {x: -20, y: 28}
+        - {x: -28, y: 20}
+        - {x: -31, y: 13}
+        - {x: -31, y: -13}
+        - {x: -28, y: -20}
+        - {x: -22, y: -31}
+        - {x: 18, y: -31}
+        - {x: 21, y: -29}
+        - {x: 31, y: -15}
+        - {x: 31, y: 19}
+    - name: BustaMoveBashBubbleSpritesheet_264
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 564
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_265
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 563
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_266
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 563
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_267
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 563
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_268
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 559
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_269
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 548
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 24}
+        - {x: -24, y: 16}
+        - {x: -24, y: -15}
+        - {x: -18, y: -24}
+        - {x: 20, y: -24}
+        - {x: 24, y: -21}
+        - {x: 24, y: 18}
+        - {x: 22, y: 24}
+    - name: BustaMoveBashBubbleSpritesheet_270
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 544
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 28}
+        - {x: -28, y: 21}
+        - {x: -28, y: -22}
+        - {x: -21, y: -28}
+        - {x: 24, y: -28}
+        - {x: 28, y: -18}
+        - {x: 28, y: 23}
+        - {x: 21, y: 28}
+    - name: BustaMoveBashBubbleSpritesheet_271
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 543
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 29}
+        - {x: -28, y: 27}
+        - {x: -29, y: 26}
+        - {x: -29, y: -22}
+        - {x: -27, y: -29}
+        - {x: 26, y: -29}
+        - {x: 29, y: -21}
+        - {x: 29, y: 24}
+        - {x: 23, y: 29}
+    - name: BustaMoveBashBubbleSpritesheet_272
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 542
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 30}
+        - {x: -30, y: 19}
+        - {x: -30, y: -24}
+        - {x: -14, y: -30}
+        - {x: 19, y: -30}
+        - {x: 30, y: -20}
+        - {x: 30, y: 19}
+        - {x: 19, y: 30}
+    - name: BustaMoveBashBubbleSpritesheet_273
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 527
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_274
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 536
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_275
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 536
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_276
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 536
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_277
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 536
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_278
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 536
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_279
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 536
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_280
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 536
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_281
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 536
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_282
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 536
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_283
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 536
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_284
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 536
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_285
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 477
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 30}
+        - {x: -30, y: 19}
+        - {x: -30, y: -24}
+        - {x: -14, y: -30}
+        - {x: 19, y: -30}
+        - {x: 30, y: -20}
+        - {x: 30, y: 19}
+        - {x: 19, y: 30}
+    - name: BustaMoveBashBubbleSpritesheet_286
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 476
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 31}
+        - {x: -13, y: 31}
+        - {x: -20, y: 28}
+        - {x: -28, y: 20}
+        - {x: -31, y: 13}
+        - {x: -31, y: -13}
+        - {x: -28, y: -20}
+        - {x: -22, y: -31}
+        - {x: 18, y: -31}
+        - {x: 21, y: -29}
+        - {x: 31, y: -15}
+        - {x: 31, y: 19}
+    - name: BustaMoveBashBubbleSpritesheet_287
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 476
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 31}
+        - {x: -13, y: 31}
+        - {x: -20, y: 28}
+        - {x: -28, y: 20}
+        - {x: -31, y: 13}
+        - {x: -31, y: -13}
+        - {x: -28, y: -20}
+        - {x: -22, y: -31}
+        - {x: 18, y: -31}
+        - {x: 21, y: -29}
+        - {x: 31, y: -15}
+        - {x: 31, y: 19}
+    - name: BustaMoveBashBubbleSpritesheet_288
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 476
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 31}
+        - {x: -13, y: 31}
+        - {x: -20, y: 28}
+        - {x: -28, y: 20}
+        - {x: -31, y: 13}
+        - {x: -31, y: -13}
+        - {x: -28, y: -20}
+        - {x: -22, y: -31}
+        - {x: 18, y: -31}
+        - {x: 21, y: -29}
+        - {x: 31, y: -15}
+        - {x: 31, y: 19}
+    - name: BustaMoveBashBubbleSpritesheet_289
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 527
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_290
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 527
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_291
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 527
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_292
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 483
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 24}
+        - {x: -24, y: 16}
+        - {x: -24, y: -15}
+        - {x: -18, y: -24}
+        - {x: 20, y: -24}
+        - {x: 24, y: -21}
+        - {x: 24, y: 18}
+        - {x: 22, y: 24}
+    - name: BustaMoveBashBubbleSpritesheet_293
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 479
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 28}
+        - {x: -28, y: 21}
+        - {x: -28, y: -22}
+        - {x: -21, y: -28}
+        - {x: 24, y: -28}
+        - {x: 28, y: -18}
+        - {x: 28, y: 23}
+        - {x: 21, y: 28}
+    - name: BustaMoveBashBubbleSpritesheet_294
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 478
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 29}
+        - {x: -28, y: 27}
+        - {x: -29, y: 26}
+        - {x: -29, y: -22}
+        - {x: -27, y: -29}
+        - {x: 26, y: -29}
+        - {x: 29, y: -21}
+        - {x: 29, y: 24}
+        - {x: 23, y: 29}
+    - name: BustaMoveBashBubbleSpritesheet_295
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 438
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 40}
+        - {x: -24, y: 27}
+        - {x: -24, y: -40}
+        - {x: 24, y: -40}
+        - {x: 24, y: 32}
+        - {x: 11, y: 40}
+    - name: BustaMoveBashBubbleSpritesheet_296
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 438
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 40}
+        - {x: -24, y: 27}
+        - {x: -24, y: -40}
+        - {x: 24, y: -40}
+        - {x: 24, y: 32}
+        - {x: 11, y: 40}
+    - name: BustaMoveBashBubbleSpritesheet_297
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 438
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 40}
+        - {x: -24, y: 27}
+        - {x: -24, y: -40}
+        - {x: 24, y: -40}
+        - {x: 24, y: 32}
+        - {x: 11, y: 40}
+    - name: BustaMoveBashBubbleSpritesheet_298
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 438
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 40}
+        - {x: -24, y: 27}
+        - {x: -24, y: -40}
+        - {x: 24, y: -40}
+        - {x: 24, y: 32}
+        - {x: 11, y: 40}
+    - name: BustaMoveBashBubbleSpritesheet_299
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 482
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_300
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 494
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_301
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 356
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 40}
+        - {x: -24, y: 27}
+        - {x: -24, y: -40}
+        - {x: 24, y: -40}
+        - {x: 24, y: 32}
+        - {x: 11, y: 40}
+    - name: BustaMoveBashBubbleSpritesheet_302
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 356
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 40}
+        - {x: -24, y: 27}
+        - {x: -24, y: -40}
+        - {x: 24, y: -40}
+        - {x: 24, y: 32}
+        - {x: 11, y: 40}
+    - name: BustaMoveBashBubbleSpritesheet_303
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 356
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 40}
+        - {x: -24, y: 27}
+        - {x: -24, y: -40}
+        - {x: 24, y: -40}
+        - {x: 24, y: 32}
+        - {x: 11, y: 40}
+    - name: BustaMoveBashBubbleSpritesheet_304
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 356
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 40}
+        - {x: -24, y: 27}
+        - {x: -24, y: -40}
+        - {x: 24, y: -40}
+        - {x: 24, y: 32}
+        - {x: 11, y: 40}
+    - name: BustaMoveBashBubbleSpritesheet_305
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 429
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_306
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 418
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -24, y: 21}
+        - {x: -24, y: -17}
+        - {x: -18, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: BustaMoveBashBubbleSpritesheet_307
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 414
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 28}
+        - {x: -28, y: 24}
+        - {x: -28, y: -21}
+        - {x: -25, y: -28}
+        - {x: 26, y: -28}
+        - {x: 28, y: -27}
+        - {x: 28, y: 18}
+        - {x: 16, y: 28}
+    - name: BustaMoveBashBubbleSpritesheet_308
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 413
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 29}
+        - {x: -29, y: 25}
+        - {x: -29, y: -23}
+        - {x: -26, y: -29}
+        - {x: 19, y: -29}
+        - {x: 29, y: -19}
+        - {x: 29, y: 18}
+        - {x: 18, y: 29}
+    - name: BustaMoveBashBubbleSpritesheet_309
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 412
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 30}
+        - {x: -30, y: 22}
+        - {x: -30, y: -21}
+        - {x: -20, y: -30}
+        - {x: 27, y: -30}
+        - {x: 30, y: -24}
+        - {x: 30, y: 26}
+        - {x: 21, y: 30}
+    - name: BustaMoveBashBubbleSpritesheet_310
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 411
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 31}
+        - {x: -13, y: 31}
+        - {x: -20, y: 28}
+        - {x: -28, y: 20}
+        - {x: -31, y: 13}
+        - {x: -31, y: -13}
+        - {x: -28, y: -20}
+        - {x: -22, y: -31}
+        - {x: 18, y: -31}
+        - {x: 21, y: -29}
+        - {x: 31, y: -15}
+        - {x: 31, y: 19}
+    - name: BustaMoveBashBubbleSpritesheet_311
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 411
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 31}
+        - {x: -13, y: 31}
+        - {x: -20, y: 28}
+        - {x: -28, y: 20}
+        - {x: -31, y: 13}
+        - {x: -31, y: -13}
+        - {x: -28, y: -20}
+        - {x: -22, y: -31}
+        - {x: 18, y: -31}
+        - {x: 21, y: -29}
+        - {x: 31, y: -15}
+        - {x: 31, y: 19}
+    - name: BustaMoveBashBubbleSpritesheet_312
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 411
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 31}
+        - {x: -13, y: 31}
+        - {x: -20, y: 28}
+        - {x: -28, y: 20}
+        - {x: -31, y: 13}
+        - {x: -31, y: -13}
+        - {x: -28, y: -20}
+        - {x: -22, y: -31}
+        - {x: 18, y: -31}
+        - {x: 21, y: -29}
+        - {x: 31, y: -15}
+        - {x: 31, y: 19}
+    - name: BustaMoveBashBubbleSpritesheet_313
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 364
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_314
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 353
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 24}
+        - {x: -24, y: 16}
+        - {x: -24, y: -15}
+        - {x: -18, y: -24}
+        - {x: 20, y: -24}
+        - {x: 24, y: -21}
+        - {x: 24, y: 18}
+        - {x: 22, y: 24}
+    - name: BustaMoveBashBubbleSpritesheet_315
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 349
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 28}
+        - {x: -28, y: 21}
+        - {x: -28, y: -22}
+        - {x: -21, y: -28}
+        - {x: 24, y: -28}
+        - {x: 28, y: -18}
+        - {x: 28, y: 23}
+        - {x: 21, y: 28}
+    - name: BustaMoveBashBubbleSpritesheet_316
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 348
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 29}
+        - {x: -29, y: 26}
+        - {x: -29, y: -17}
+        - {x: -20, y: -29}
+        - {x: 16, y: -29}
+        - {x: 29, y: -18}
+        - {x: 29, y: 21}
+        - {x: 27, y: 29}
+    - name: BustaMoveBashBubbleSpritesheet_317
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 347
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 30}
+        - {x: -28, y: 30}
+        - {x: -30, y: 20}
+        - {x: -30, y: -20}
+        - {x: -19, y: -30}
+        - {x: 15, y: -30}
+        - {x: 28, y: -21}
+        - {x: 30, y: -14}
+        - {x: 30, y: 21}
+    - name: BustaMoveBashBubbleSpritesheet_318
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 346
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 31}
+        - {x: -13, y: 31}
+        - {x: -20, y: 28}
+        - {x: -28, y: 20}
+        - {x: -31, y: 13}
+        - {x: -31, y: -13}
+        - {x: -28, y: -20}
+        - {x: -22, y: -31}
+        - {x: 18, y: -31}
+        - {x: 21, y: -29}
+        - {x: 31, y: -15}
+        - {x: 31, y: 19}
+    - name: BustaMoveBashBubbleSpritesheet_319
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 346
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 31}
+        - {x: -13, y: 31}
+        - {x: -20, y: 28}
+        - {x: -28, y: 20}
+        - {x: -31, y: 13}
+        - {x: -31, y: -13}
+        - {x: -28, y: -20}
+        - {x: -22, y: -31}
+        - {x: 18, y: -31}
+        - {x: 21, y: -29}
+        - {x: 31, y: -15}
+        - {x: 31, y: 19}
+    - name: BustaMoveBashBubbleSpritesheet_320
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 346
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 31}
+        - {x: -13, y: 31}
+        - {x: -20, y: 28}
+        - {x: -28, y: 20}
+        - {x: -31, y: 13}
+        - {x: -31, y: -13}
+        - {x: -28, y: -20}
+        - {x: -22, y: -31}
+        - {x: 18, y: -31}
+        - {x: 21, y: -29}
+        - {x: 31, y: -15}
+        - {x: 31, y: 19}
+    - name: BustaMoveBashBubbleSpritesheet_321
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 330
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_322
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 330
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_323
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 330
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_324
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 330
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_325
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 330
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_326
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 330
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_327
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 330
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_328
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 330
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_329
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 24}
+        - {x: -24, y: 16}
+        - {x: -24, y: -15}
+        - {x: -18, y: -24}
+        - {x: 20, y: -24}
+        - {x: 24, y: -21}
+        - {x: 24, y: 18}
+        - {x: 22, y: 24}
+    - name: BustaMoveBashBubbleSpritesheet_330
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 284
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 28}
+        - {x: -28, y: 21}
+        - {x: -28, y: -22}
+        - {x: -21, y: -28}
+        - {x: 24, y: -28}
+        - {x: 28, y: -18}
+        - {x: 28, y: 23}
+        - {x: 21, y: 28}
+    - name: BustaMoveBashBubbleSpritesheet_331
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 283
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 29}
+        - {x: -29, y: -29}
+        - {x: 21, y: -29}
+        - {x: 29, y: -24}
+        - {x: 29, y: 23}
+        - {x: 22, y: 29}
+    - name: BustaMoveBashBubbleSpritesheet_332
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 282
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 30}
+        - {x: -30, y: 28}
+        - {x: -30, y: -17}
+        - {x: -27, y: -21}
+        - {x: -15, y: -30}
+        - {x: 19, y: -30}
+        - {x: 30, y: -20}
+        - {x: 30, y: 21}
+        - {x: 25, y: 30}
+    - name: BustaMoveBashBubbleSpritesheet_333
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 281
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 31}
+        - {x: -13, y: 31}
+        - {x: -20, y: 28}
+        - {x: -28, y: 20}
+        - {x: -31, y: 13}
+        - {x: -31, y: -13}
+        - {x: -28, y: -20}
+        - {x: -22, y: -31}
+        - {x: 18, y: -31}
+        - {x: 21, y: -29}
+        - {x: 31, y: -15}
+        - {x: 31, y: 19}
+    - name: BustaMoveBashBubbleSpritesheet_334
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 281
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 31}
+        - {x: -13, y: 31}
+        - {x: -20, y: 28}
+        - {x: -28, y: 20}
+        - {x: -31, y: 13}
+        - {x: -31, y: -13}
+        - {x: -28, y: -20}
+        - {x: -22, y: -31}
+        - {x: 18, y: -31}
+        - {x: 21, y: -29}
+        - {x: 31, y: -15}
+        - {x: 31, y: 19}
+    - name: BustaMoveBashBubbleSpritesheet_335
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 281
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 31}
+        - {x: -13, y: 31}
+        - {x: -20, y: 28}
+        - {x: -28, y: 20}
+        - {x: -31, y: 13}
+        - {x: -31, y: -13}
+        - {x: -28, y: -20}
+        - {x: -22, y: -31}
+        - {x: 18, y: -31}
+        - {x: 21, y: -29}
+        - {x: 31, y: -15}
+        - {x: 31, y: 19}
+    - name: BustaMoveBashBubbleSpritesheet_336
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 304
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_337
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 304
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_338
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 304
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_339
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 304
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_340
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 304
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_341
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 304
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_342
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 304
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_343
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 304
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_344
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 299
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_345
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 278
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_346
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 278
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_347
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 278
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_348
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 278
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_349
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 278
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_350
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 278
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_351
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 278
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_352
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 278
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_353
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 252
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_354
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 252
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_355
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 252
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_356
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 252
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_357
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 252
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_358
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 252
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_359
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 252
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_360
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 252
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_361
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 234
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_362
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 223
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 24}
+        - {x: -24, y: 17}
+        - {x: -24, y: -24}
+        - {x: 22, y: -24}
+        - {x: 24, y: -18}
+        - {x: 24, y: 20}
+        - {x: 17, y: 24}
+    - name: BustaMoveBashBubbleSpritesheet_363
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 219
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 28}
+        - {x: -28, y: 22}
+        - {x: -28, y: -20}
+        - {x: -26, y: -28}
+        - {x: 27, y: -28}
+        - {x: 28, y: -23}
+        - {x: 28, y: 20}
+        - {x: 19, y: 28}
+    - name: BustaMoveBashBubbleSpritesheet_364
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 218
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 29}
+        - {x: -29, y: 20}
+        - {x: -29, y: -20}
+        - {x: -24, y: -29}
+        - {x: 29, y: -29}
+        - {x: 29, y: 29}
+    - name: BustaMoveBashBubbleSpritesheet_365
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 217
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 30}
+        - {x: -30, y: -30}
+        - {x: 30, y: -30}
+        - {x: 30, y: 29}
+        - {x: 27, y: 30}
+    - name: BustaMoveBashBubbleSpritesheet_366
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 216
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 30}
+        - {x: 19, y: 31}
+        - {x: -21, y: 31}
+        - {x: -30, y: 24}
+        - {x: -31, y: 19}
+        - {x: -31, y: -21}
+        - {x: -26, y: -30}
+        - {x: -20, y: -31}
+        - {x: 21, y: -31}
+        - {x: 30, y: -24}
+        - {x: 31, y: -19}
+        - {x: 31, y: 22}
+    - name: BustaMoveBashBubbleSpritesheet_367
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 216
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 31}
+        - {x: -31, y: 29}
+        - {x: -31, y: -24}
+        - {x: -19, y: -31}
+        - {x: 20, y: -31}
+        - {x: 31, y: -21}
+        - {x: 31, y: 22}
+        - {x: 25, y: 31}
+    - name: BustaMoveBashBubbleSpritesheet_368
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 216
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 31}
+        - {x: -13, y: 31}
+        - {x: -20, y: 28}
+        - {x: -28, y: 20}
+        - {x: -31, y: 13}
+        - {x: -31, y: -13}
+        - {x: -28, y: -20}
+        - {x: -22, y: -31}
+        - {x: 18, y: -31}
+        - {x: 21, y: -29}
+        - {x: 31, y: -15}
+        - {x: 31, y: 19}
+    - name: BustaMoveBashBubbleSpritesheet_369
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 226
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_370
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 226
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_371
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 226
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_372
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 226
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_373
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 226
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_374
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 226
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_375
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 226
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_376
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 226
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_377
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 200
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_378
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 200
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_379
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 200
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_380
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 200
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_381
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 200
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_382
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 200
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_383
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 200
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_384
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 200
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_385
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 158
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 24}
+        - {x: -24, y: 16}
+        - {x: -24, y: -15}
+        - {x: -18, y: -24}
+        - {x: 20, y: -24}
+        - {x: 24, y: -21}
+        - {x: 24, y: 18}
+        - {x: 22, y: 24}
+    - name: BustaMoveBashBubbleSpritesheet_386
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 154
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 28}
+        - {x: -28, y: 21}
+        - {x: -28, y: -22}
+        - {x: -21, y: -28}
+        - {x: 24, y: -28}
+        - {x: 28, y: -18}
+        - {x: 28, y: 23}
+        - {x: 21, y: 28}
+    - name: BustaMoveBashBubbleSpritesheet_387
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 153
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 29}
+        - {x: -28, y: 27}
+        - {x: -29, y: 26}
+        - {x: -29, y: -22}
+        - {x: -27, y: -29}
+        - {x: 26, y: -29}
+        - {x: 29, y: -21}
+        - {x: 29, y: 24}
+        - {x: 23, y: 29}
+    - name: BustaMoveBashBubbleSpritesheet_388
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 152
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 30}
+        - {x: -30, y: 19}
+        - {x: -30, y: -24}
+        - {x: -14, y: -30}
+        - {x: 19, y: -30}
+        - {x: 30, y: -20}
+        - {x: 30, y: 19}
+        - {x: 19, y: 30}
+    - name: BustaMoveBashBubbleSpritesheet_389
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 151
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 31}
+        - {x: -13, y: 31}
+        - {x: -20, y: 28}
+        - {x: -28, y: 20}
+        - {x: -31, y: 13}
+        - {x: -31, y: -13}
+        - {x: -28, y: -20}
+        - {x: -22, y: -31}
+        - {x: 18, y: -31}
+        - {x: 21, y: -29}
+        - {x: 31, y: -15}
+        - {x: 31, y: 19}
+    - name: BustaMoveBashBubbleSpritesheet_390
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 151
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 31}
+        - {x: -13, y: 31}
+        - {x: -20, y: 28}
+        - {x: -28, y: 20}
+        - {x: -31, y: 13}
+        - {x: -31, y: -13}
+        - {x: -28, y: -20}
+        - {x: -22, y: -31}
+        - {x: 18, y: -31}
+        - {x: 21, y: -29}
+        - {x: 31, y: -15}
+        - {x: 31, y: 19}
+    - name: BustaMoveBashBubbleSpritesheet_391
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 151
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 31}
+        - {x: -13, y: 31}
+        - {x: -20, y: 28}
+        - {x: -28, y: 20}
+        - {x: -31, y: 13}
+        - {x: -31, y: -13}
+        - {x: -28, y: -20}
+        - {x: -22, y: -31}
+        - {x: 18, y: -31}
+        - {x: 21, y: -29}
+        - {x: 31, y: -15}
+        - {x: 31, y: 19}
+    - name: BustaMoveBashBubbleSpritesheet_392
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 174
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_393
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 174
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_394
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 174
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_395
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 174
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_396
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 174
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_397
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 174
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_398
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 174
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_399
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 174
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_400
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 169
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_401
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 148
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_402
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 148
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_403
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 148
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_404
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 148
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_405
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 148
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_406
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 148
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_407
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 148
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_408
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 148
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_409
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 122
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_410
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 122
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_411
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 122
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_412
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 122
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_413
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 122
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_414
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 122
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_415
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 122
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_416
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 122
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_417
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 6
+        width: 280
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 25.5}
+        - {x: 64, y: 45.5}
+        - {x: 62, y: 63.5}
+        - {x: -55, y: 63.5}
+        - {x: -71, y: 59.5}
+        - {x: -140, y: -20.5}
+        - {x: -140, y: -63.5}
+        - {x: 140, y: -63.5}
+        - {x: 140, y: -25.5}
+        - {x: 61, y: 25.5}
+    - name: BustaMoveBashBubbleSpritesheet_418
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 37
+        width: 42
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 48}
+        - {x: -8, y: 48}
+        - {x: -15, y: 40}
+        - {x: -21, y: 0}
+        - {x: -21, y: -36}
+        - {x: -7, y: -48}
+        - {x: 6, y: -48}
+        - {x: 21, y: -31}
+        - {x: 21, y: 10}
+        - {x: 18, y: 43}
+    - name: BustaMoveBashBubbleSpritesheet_419
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_420
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 96
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_421
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 96
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_422
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 96
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_423
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 96
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_424
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 96
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_425
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 96
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_426
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 96
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_427
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 60
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_428
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 60
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_429
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 56
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_430
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 56
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_431
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_432
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 60
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_433
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 60
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_434
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 56
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_435
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 60
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_436
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 60
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_437
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 60
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_438
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 60
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_439
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 60
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_440
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 60
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_441
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 60
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_442
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 32
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_443
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 28
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_444
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 32
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_445
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 4
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_446
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 32
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_447
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 32
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_448
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_449
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 29
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_450
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 32
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_451
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 32
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_452
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 32
+        width: 4
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_453
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 32
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_454
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 32
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_455
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 4
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_456
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 4
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_457
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 4
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_458
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 4
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_459
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 4
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_460
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 4
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_461
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 4
+        width: 4
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_462
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 4
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_463
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_464
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 4
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_465
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 4
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_466
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 4
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_467
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 4
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: BustaMoveBashBubbleSpritesheet_468
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 4
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
